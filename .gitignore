@@ -1,0 +1,19 @@
+# Environment variables
+.env
+secret_key.py
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+ml-env/
+venv/
+
+# FAISS / vector files
+vector_index/
+vector_index.pkl
+
+# Jupyter
+*.ipynb_checkpoints
